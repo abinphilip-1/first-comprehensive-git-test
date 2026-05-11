@@ -1,0 +1,10 @@
+Text file created from footer branch.
+to check if the new branch created from here would take untracked and unstated 
+files.
+
+Lets Check out.
+
+Changes made from footer-nav branch , a branch of footer branch. 
+
+ Stashing in progress for the first time ever.
+ 
